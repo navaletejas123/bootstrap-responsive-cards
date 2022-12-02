@@ -1,0 +1,22 @@
+.fs-22 {
+  font-size: 22px;
+}
+.fs-14{
+    font-size: 14px;
+}
+.card{
+    background-color: #f1f6fd;
+}
+.card-year {
+  border: 2px dashed #52b6f9;
+}
+.color-sky-blue {
+  color: #189cf4;
+}
+.sky-blue {
+    background-color: #189cf4;
+  }
+  .card-footer-btn:hover{
+    background-color: black;
+    color: white;
+  }

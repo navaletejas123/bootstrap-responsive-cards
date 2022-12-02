@@ -1,0 +1,28 @@
+.container-fluid{
+    background-image: url('./bg1.png') !important;
+    /* background-repeat:no-repeat ;    */
+}
+.light-blue{
+    color: #00AFDF;
+}
+.light-green{
+    color: #24D95C;
+}
+.yellow{
+    color: #FFBE00;
+}
+.blue-green{
+    color: #31BBE5;
+}
+.orange{
+    color: orange;
+}
+.icon-size{
+    font-size: 50px;
+}
+.fs-24{
+    font-size: 24px;
+}
+.fs-16{
+    font-size: 16px;
+}

@@ -1,0 +1,71 @@
+body {
+  background-color: #F2FAFD;
+  
+}
+.card {
+  width: 90%;
+}
+.card:hover {
+  border: 1px solid rgb(100, 100, 241);
+}
+.fs-18 {
+  font-size: 18px;
+}
+.fs-16{
+    font-size: 16px;
+}
+.fs-28{
+  font-size: 28px;
+}
+.color-green{
+    color: green;
+}
+.color-crimson{
+    color: crimson;
+}
+.color-blue{
+  color: blue;
+}
+.color-violet{
+  color: violet;
+}
+.bottom-btn:hover{
+background-color: #31D2F2;
+color: white !important;
+}
+.card-1{
+  border-top-left-radius:40px ;
+}
+.card-3{
+  border-top-right-radius:40px ;
+}
+.card-4{
+  border-bottom-left-radius:40px ;
+}
+.card-6{
+  border-bottom-right-radius:40px ;
+}
+.heading {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 26px;
+  font-family: "Open Sans";
+}
+.p-text {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+@media screen and (max-width:991px) {
+  .card-1{
+    border-top-left-radius:0 ;
+  }
+  .card-3{
+    border-top-right-radius:0 ;
+  }
+  .card-4{
+    border-bottom-left-radius:0 ;
+  }
+  .card-6{
+    border-bottom-right-radius:0 ;
+  }
+}
